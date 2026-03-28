@@ -1,7 +1,8 @@
 # Digital Literacy Portfolio
 
 **Name:** Alok Soni  
-**Registration Number:** 25BOE10145 
+**Registration Number:** 25BOE10145
+
 **Branch:** Bioengineering  
 **Year:** First Year B.Tech  
 **Course Code:** CSE0001  
