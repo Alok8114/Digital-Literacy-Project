@@ -1,11 +1,11 @@
 # Digital Literacy Portfolio
 
-**Name:** [Your Name]  
-**Registration Number:** [Your Reg. No.]  
-**Branch:** [Your Branch]  
+**Name:** Alok Soni  
+**Registration Number:** 25BOE10145 
+**Branch:** Bioengineering  
 **Year:** First Year B.Tech  
 **Course Code:** CSE0001  
-**Date:** [Current Date]
+**Date:** 28-03-2026
 
 ---
 
