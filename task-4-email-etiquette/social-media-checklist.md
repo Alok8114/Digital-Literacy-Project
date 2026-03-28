@@ -1,1 +1,11 @@
+### **The Social Media Checklist for College Students**
 
+| **Do’s (What to Practice)** | **Don’ts (What to Avoid)** |
+| :--- | :--- |
+| **1. Do curate a professional digital footprint.** Assume future employers, internship coordinators, and professors will Google you. Ensure your public profiles reflect the image you want to project in the professional world. | **1. Don't post evidence of unprofessional or illegal behavior.** Pictures involving underage drinking, illicit substances, or reckless behavior can easily cost you scholarships or job offers, even if posted to a "private" story. |
+| **2. Do network proactively.** Leverage platforms like LinkedIn to connect with alumni, join relevant groups, and follow leaders in fields you might want to pursue, like artificial intelligence or bioengineering. | **2. Don't overshare your real-time location.** Avoid broadcasting your exact whereabouts, dorm room number, or daily campus schedule to the public, especially when living away from your home state. Safety comes first. |
+| **3. Do share your projects and passions.** Use your platforms as a portfolio. Sharing insights from a fascinating lecture, a coding project, or even a well-organized hobby collection shows character and genuine interest. | **3. Don't engage in public, heated arguments.** It is easy to get pulled into the comments section, but digital arguments rarely change minds and often leave a permanent record of you losing your temper. |
+| **4. Do utilize privacy settings.** Regularly audit who can see your posts, tags, and personal information. Keep your personal accounts restricted to actual friends and family. | **4. Don't let doomscrolling eat your study time.** Set app limits to prevent a quick five-minute break from turning into a two-hour scroll session the night before a major exam. |
+| **5. Do take regular digital detoxes.** College can be overwhelming. Taking a weekend off from social media can significantly reduce anxiety, improve your sleep, and help you stay grounded in the present. | **5. Don't compare your behind-the-scenes to everyone else's highlight reel.** Remember that people only post their wins—the accepted internships, the great parties, the perfect grades. Don't let it skew your perception of your own college journey. |
+
+***
