@@ -2,7 +2,6 @@
 
 **Name:** Alok Soni  
 **Registration Number:** 25BOE10145
-
 **Branch:** Bioengineering  
 **Year:** First Year B.Tech  
 **Course Code:** CSE0001  
