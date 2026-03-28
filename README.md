@@ -1,9 +1,13 @@
 # CSE0001 - Digital Literacy Project
 
-**Name:** [Your Name]
-**Registration Number:** [Your Reg. No.]
-**Branch:** [Your Branch]
-**Year:** [Your Year]
+**Name:** Alok Soni
+
+**Registration Number:** 25BOE10145
+
+**Branch:** Bioengineering
+
+**Year:** First Year
+
 
 ---
 
